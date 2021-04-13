@@ -6,6 +6,8 @@ Installation
 npm i discord.js
 ```
 
+Get your bot token from Discord Developer Portal
+
 ```javascript
 const Discord = require("discord.js");
 const client = new Discord.Client();
