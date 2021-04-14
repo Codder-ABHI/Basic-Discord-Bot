@@ -14,7 +14,7 @@ Now Make a File called `index.js`
 npm i discord.js
 ```
 
-Get your bot token from [Discord Developer Portal](https://discord.com/developers/docs)
+Get your bot token from **[Discord Developer Portal](https://discord.com/developers/docs)**
 
 ```javascript
 const Discord = require("discord.js");
