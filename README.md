@@ -27,3 +27,8 @@ client.on("message", (message) => {
  
 client.login("your bot token");
 ```
+To Start the Bot Use
+
+```sh
+node index.js
+```
