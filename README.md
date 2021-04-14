@@ -40,4 +40,4 @@ To Start the Bot Use
 ```sh
 node index.js
 ```
-**[Support Server](https://discord.gg/zRqEsZjFj8)**
+**[Discord Support Server](https://discord.gg/zRqEsZjFj8)**
