@@ -8,7 +8,7 @@ Use `npm init` and it will create a package.json file
 npm init
 ```
 
-Now Make a File called `index.js` and type `npm i discord.js in the terminal`.
+Now Make a File called `index.js` and type `npm i discord.js` in the terminal.
 
 ```sh
 npm i discord.js
@@ -33,11 +33,14 @@ client.on("message", (message) => {
   }
 });
  
-client.login("your bot token");
+client.login("your bot token");//your discord bot token from Developer Portal
 ```
-To Start the Bot Use
+To Start the Bot Use `node index.js` in the terminal.
 
 ```sh
 node index.js
 ```
+
+If you ned any help join the Support server.
+
 ### **[Discord Support Server](https://discord.gg/zRqEsZjFj8)**
