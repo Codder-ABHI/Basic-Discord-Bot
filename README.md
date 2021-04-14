@@ -1,6 +1,6 @@
 # Basic Discord.js Bot
 
-Installation
+__Installation__
 
 Use `npm init` and it will create a package.json file
 
