@@ -2,6 +2,14 @@
 
 Installation
 
+Use npm init and it will create a package.json file
+
+```sh
+npm init
+```
+
+Now Make a File called `index.js` 
+
 ```sh
 npm i discord.js
 ```
