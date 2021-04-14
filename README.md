@@ -2,7 +2,7 @@
 
 Installation
 
-Use npm init and it will create a package.json file
+Use `npm init` and it will create a package.json file
 
 ```sh
 npm init
@@ -14,7 +14,7 @@ Now Make a File called `index.js`
 npm i discord.js
 ```
 
-Get your bot token from Discord Developer Portal
+Get your bot token from [Discord Developer] (https://discord.com/developers/docs)Portal
 
 ```javascript
 const Discord = require("discord.js");
