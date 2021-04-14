@@ -8,7 +8,7 @@ Use `npm init` and it will create a package.json file
 npm init
 ```
 
-Now Make a File called `index.js` 
+Now Make a File called `index.js` and type `npm i discord.js in the terminal`.
 
 ```sh
 npm i discord.js
